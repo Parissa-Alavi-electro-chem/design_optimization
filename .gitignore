@@ -1,0 +1,10 @@
+*.class
+*.class.status
+*.mph
+*.mph.*
+*.log
+__pycache__/
+*.pyc
+.venv/
+molesense_results_*/
+*results/
